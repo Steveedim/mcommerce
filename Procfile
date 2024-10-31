@@ -1,0 +1,1 @@
+web: gunicorn steve_project.wsgi
